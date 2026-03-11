@@ -1,5 +1,5 @@
 import React from 'react'
-import { Vert3xDrone } from '../models/Vert3x-drone'
+import { Model } from '../models/Vert3x-drone'
 
 const HeroSection = () => {
   return (
